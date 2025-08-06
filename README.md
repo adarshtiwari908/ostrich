@@ -3,9 +3,17 @@
 <p align="center">
   <img src="/public/ostrich (2).png" alt="Ostrich in action view" width="400"/><br>
 </p>
-
 <p align="center">
   <img src="/public/dashboard.png" alt="Ostrich overview" width="400"/><br>
+</p>
+<p align="center">
+  <img src="/public/1.png" alt="Ostrich in action view" width="400"/><br>
+</p>
+<p align="center">
+  <img src="/public/2.png" alt="Ostrich in action view" width="400"/><br>
+</p>
+<p align="center">
+  <img src="/public/3.png" alt="Ostrich in action view" width="400"/><br>
 </p>
 
 
