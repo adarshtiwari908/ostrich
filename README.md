@@ -1,19 +1,19 @@
 <h1>Ostrich</h1>
 
 <p align="center">
-  <img src="/public/ostrich (2).png" alt="Ostrich in action view" width="400"/><br>
+  <img src="/public/ostrich (2).png" alt="Ostrich in action view" width="900"/><br>
 </p>
 <p align="center">
-  <img src="/public/dashboard.png" alt="Ostrich overview" width="400"/><br>
+  <img src="/public/dashboard.png" alt="Ostrich overview" width="900"/><br>
 </p>
 <p align="center">
-  <img src="/public/1.png" alt="Ostrich in action view" width="400"/><br>
+  <img src="/public/1.png" alt="Ostrich in action view" width="900"/><br>
 </p>
 <p align="center">
-  <img src="/public/2.png" alt="Ostrich in action view" width="400"/><br>
+  <img src="/public/2.png" alt="Ostrich in action view" width="900"/><br>
 </p>
 <p align="center">
-  <img src="/public/3.png" alt="Ostrich in action view" width="400"/><br>
+  <img src="/public/3.png" alt="Ostrich in action view" width="900"/><br>
 </p>
 
 
