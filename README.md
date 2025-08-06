@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="/public/ostrich.png" alt="Ostrich overview" width="400"/><br>
+  <img src="/public/dashboard.png" alt="Ostrich overview" width="400"/><br>
 </p>
-
 
 
 A sleek internal tool that monitors and manages service integrations (e.g., GitHub → Slack), powered by real-time data, actionable AI insights, and beautiful charts 
