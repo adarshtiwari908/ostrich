@@ -1,3 +1,38 @@
+<h1>Ostrich</h1>
+
+<p align="center">
+  <img src="/public/ostrich (2).png" alt="Ostrich in action view" width="400"/><br>
+</p>
+
+<p align="center">
+  <img src="/public/ostrich.png" alt="Ostrich overview" width="400"/><br>
+</p>
+
+
+
+A sleek internal tool that monitors and manages service integrations (e.g., GitHub → Slack), powered by real-time data, actionable AI insights, and beautiful charts 
+
+ Core Features
+
+-Integration Monitoring Dashboard**
+- AI Copilot** for smart debugging & performance insights
+- Live Data Visualizations** (errors, traffic, uptime)
+  Logs Viewer** with filtering & search
+- Real-Time Updates** (WebSockets incoming)
+- Dark Mode + Responsive UI**
+
+---
+
+## 📂 Get Started
+
+```bash
+git clone https://github.com/adarshtiwari908/saas-integration-monitor
+cd saas-integration-monitor
+npm install && npm run dev
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -29,8 +64,3 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
