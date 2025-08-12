@@ -4,9 +4,6 @@
   <img src="/public/ostrich (2).png" alt="Ostrich in action view" width="900"/><br>
 </p>
 <p align="center">
-  <img src="/public/dashboard.png" alt="Ostrich overview" width="900"/><br>
-</p>
-<p align="center">
   <img src="/public/1.png" alt="Ostrich in action view" width="900"/><br>
 </p>
 <p align="center">
