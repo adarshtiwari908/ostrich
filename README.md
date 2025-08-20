@@ -19,10 +19,10 @@ A sleek internal tool that monitors and manages service integrations (e.g., GitH
  Core Features
 
 -Integration Monitoring Dashboard**
-- AI Copilot** for smart debugging & performance insights
+- Copilot** for smart debugging & performance insights
 - Live Data Visualizations** (errors, traffic, uptime)
   Logs Viewer** with filtering & search
-- Real-Time Updates** (WebSockets incoming)
+- Real-Time Updates**
 - Dark Mode + Responsive UI**
 
 ---
